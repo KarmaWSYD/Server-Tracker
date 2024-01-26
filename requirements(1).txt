@@ -1,0 +1,6 @@
+# requirements.txt
+
+# discord.py
+# python-dotenv
+# SteamQuery
+# py-dactyl
