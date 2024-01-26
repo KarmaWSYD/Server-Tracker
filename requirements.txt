@@ -4,3 +4,4 @@
 # python-dotenv
 # SteamQuery
 # py-dactyl
+# py-dactyl isn't used unless you uncomment bot code
