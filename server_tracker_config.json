@@ -1,0 +1,11 @@
+{
+    "IP": "IP or FQDN here",
+    "Servers": {}, 
+    "discord_channel_id": 0,
+    "discord_message_id": 0,
+    "Server_Name": "Server Name here",
+    "Ad": [],
+    "srvlist":[]
+}
+    
+    
